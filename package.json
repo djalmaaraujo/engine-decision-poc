@@ -1,0 +1,14 @@
+{
+  "name": "poc-decision-engine-points",
+  "version": "0.1.0",
+  "description": "Proof of Concept of Something",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
